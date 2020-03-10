@@ -14,7 +14,7 @@ namespace ToDoList.Models
       _instances.Add(this);
     }
 
-    public Item(string description, int priority)
+    public Item(string description, string priority)
       : this(description)
     {
       Priority = priority;
