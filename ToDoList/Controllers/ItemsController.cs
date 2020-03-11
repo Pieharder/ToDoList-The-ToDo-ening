@@ -6,7 +6,7 @@ namespace ToDoList.Controllers
 {
   public class ItemsController : Controller
   {
-    [HttpGet("/items/new")]
+    [HttpGet("/categories/{categoryId}/items/new")]
     public ActionResult New()
     {
       return View();
