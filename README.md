@@ -1,8 +1,8 @@
 # _To Do List_
 
-#### _C# Testing practice for Epicodus_, _Mar. 2, 2020_
+#### _C# Testing practice for Epicodus_, _Mar. 11, 2020_
 
-#### By _**Michelle Morin, Eric Settels**_
+#### By _**Michelle Morin, Geoff Goetz**_
 
 ## Description
 
@@ -57,4 +57,4 @@ _To view/edit the source code of this application, open the contents of this dir
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Michelle Morin, Eric Settels_**
+Copyright (c) 2020 **_Michelle Morin, Geoff Goetz_**
